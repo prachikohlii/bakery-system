@@ -1,4 +1,4 @@
-# bakery-system
+# bakery-system (little loaf bakehouse)
 a bakery system-python interfacing with Mysql
 <br>
 the project is a .py file which connects to MySQL and creates tables in it. A customer detail table, item description table and a menu table .  <br>
