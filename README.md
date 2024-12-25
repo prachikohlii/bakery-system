@@ -6,4 +6,4 @@ The tables are typed in python and created correspondingly in MySql using mysql 
 The user should have mysql connector installed on his local computer to run the code. <br> <br>
 several courses of action have numbers as codes, the user has to enter the number corresponding to the action. <br>
 Actions include various menus as well as cart viewing option. The action list keeps on displaying till the user exits the process. <br>
-<b> CREATE DATABASE NAMED "BAKERY" PRIOR TO RUNNING CODE <b>
+<b> CREATE DATABASE NAMED "BAKERY" PRIOR TO RUNNING CODE and type "USE BAKERY" command in mysql <b>
